@@ -5,11 +5,11 @@
 * Return - the number of characters present in the program.
 */
 
-void main()
+int main(void)
 {
-int a = 99, b = ++a, c = Betty;
+int a = 99, b = ++a;
 printf("%c", a);
-printf("%s", c);
+printf("%s", Sindy);
 printf("%% of %d is not known", b);
-return (3)
+return (0);
 }
