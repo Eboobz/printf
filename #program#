@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+* create a printf program
+* show the function of c, s, and %
+* Return - the number of characters present in the program.
+*/
+
+void main()
+{
+int a = 99, b = ++a, c = Betty;
+printf("%c", a);
+printf("%s", c);
+printf("%% of %d is not known", b);
+return (3)
+}
